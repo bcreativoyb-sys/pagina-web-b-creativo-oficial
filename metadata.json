@@ -1,0 +1,8 @@
+{
+  "name": "Design Studio X - High-Conversion Landing Page",
+  "description": "A cutting-edge landing page for a design agency specializing in Sublimation, DTF, Web Design, and Branding. Features modern UI/UX, AI-powered insights, and interactive elements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
